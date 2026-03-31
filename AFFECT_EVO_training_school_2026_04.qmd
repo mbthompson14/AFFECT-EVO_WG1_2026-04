@@ -1,0 +1,17 @@
+---
+title: "AFFECT_EVO_training_school_2026_04"
+---
+
+## AFFECT EVO training school 
+### Phylogenetic Analyses
+### 14-15 April 2026
+
+install.packages("caper”)
+install.packages("phytools")
+install.packages("ape")
+install.packages("geiger”)
+install.packages(“lme4")
+
+```{r}
+
+```
